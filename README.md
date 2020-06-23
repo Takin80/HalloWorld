@@ -30,6 +30,22 @@
 ***
   tab
     4 spaces
+
+    # Tab
+    class Hoge
+        def hoge
+            print 'hoge'
+        end
+    end
+
+---
+
+    # Space
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
 ***
 インストールコマンドは `gem install hoge` です
 ***
@@ -37,17 +53,17 @@ normal *italic* normal
 normal _italic_ normal
 normal **bold** normal
 normal __bold__ normal
-normal ***bold*** normal
-normal ___bold___ normal
+normal ***italic bold*** normal
+normal ___italic bold___ normal
 ***
 ___
 ---
 * * *
 [Google先生](https://www.google.co.jp/)
 ***
-[こっちからgoogle][google]
+[こっちからgoogle][Google先生]
 その他の文章
-[こっちからもgoogle][google]
+[こっちからもgoogle][Google先生]
 ***
 https://qiita.com/tbpgr/items/989c6badefff69377da7
 
