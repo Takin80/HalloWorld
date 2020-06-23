@@ -46,6 +46,13 @@
 ***
 インストールコマンドは `gem install hoge` です
 ***
+[Google先生](https://www.google.co.jp/)
+***
+[こっちからgoogle][Google先生]
+その他の文章
+[こっちからもgoogle][Google先生]
+[Google先生]:https://www.google.co.jp/
+***
 normal *italic* normal
 normal _italic_ normal
 normal **bold** normal
@@ -56,13 +63,6 @@ normal ___italic bold___ normal
 ___
 ---
 * * *
-[Google先生](https://www.google.co.jp/)
-***
-[こっちからgoogle][Google先生]
-その他の文章
-[こっちからもgoogle][Google先生]
-[Google先生]:https://www.google.co.jp/
-***
 https://qiita.com/t_wkm2/items/372fd1c851c4d221b1f3
 https://qiita.com/tbpgr/items/989c6badefff69377da7
 
