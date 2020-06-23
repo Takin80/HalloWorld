@@ -28,18 +28,15 @@
 >> 
 >> あの新機能バグってるっすね
 ***
-  tab
-    4 spaces
-
+    tab
     # Tab
     class Hoge
         def hoge
             print 'hoge'
         end
     end
-
 ---
-
+    4 spaces
     # Space
     class Hoge
       def hoge
