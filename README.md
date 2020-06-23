@@ -63,6 +63,7 @@ ___
 [こっちからもgoogle][Google先生]
 [Google先生]:https://www.google.co.jp/
 ***
+https://qiita.com/t_wkm2/items/372fd1c851c4d221b1f3
 https://qiita.com/tbpgr/items/989c6badefff69377da7
 
 
