@@ -55,8 +55,10 @@
 ***
 normal *italic* normal
 normal _italic_ normal
+
 normal **bold** normal
 normal __bold__ normal
+
 normal ***italic bold*** normal
 normal ___italic bold___ normal
 ***
