@@ -49,17 +49,23 @@
 [Google先生](https://www.google.co.jp/)
 ***
 [こっちからgoogle][Google先生]
+
 その他の文章
+
 [こっちからもgoogle][Google先生]
+
 [Google先生]:https://www.google.co.jp/
 ***
 normal *italic* normal
+
 normal _italic_ normal
 
 normal **bold** normal
+
 normal __bold__ normal
 
 normal ***italic bold*** normal
+
 normal ___italic bold___ normal
 ***
 ___
