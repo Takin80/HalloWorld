@@ -61,6 +61,7 @@ ___
 [こっちからgoogle][Google先生]
 その他の文章
 [こっちからもgoogle][Google先生]
+[Google先生]:https://www.google.co.jp/
 ***
 https://qiita.com/tbpgr/items/989c6badefff69377da7
 
